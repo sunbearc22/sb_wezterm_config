@@ -26,6 +26,4 @@ end
 -- Configure Statrship's color
 require("sb.change_starship_colors")
 
-require("sb_equalize_panes").apply_to_config(config, {})
-
 return config
